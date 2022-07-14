@@ -1,4 +1,5 @@
 # Hackathons
+## Winner and finalist in multiple contests.
 
  <br><br>
 2019 • 2nd place <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Vous Team), selective stage for world level<br>
